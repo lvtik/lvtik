@@ -2,9 +2,8 @@
 
 Cybersecurity & coding enthusiast
 
-[Website](https://lvtik.github.io)
+[Website](https://lvtik.github.io)                        [Socials](https://guns.lol/lvtik)
 
-[Socials](https://guns.lol/lvtik)
 ## Projects
 
 ### [TTReport](https://github.com/lvtik/TTReport)
@@ -25,6 +24,12 @@ SimpleMacRestore fixes a broken Apple Silicon Mac using a Linux computer. It dow
 
 ### [ipswtool](https://github.com/lvtik/ipswtool)
 A powerful, all-in-one command-line and interactive utility to download Apple Firmware (IPSW), OTA Updates, and iTunes versions directly from Apple's servers via the ipsw.me API. 
+
+### [sfyri](https://github.com/lvtik/sfyri)
+A small and lightweight bootable USB creator
+
+### [planiuer](https://github.com/lvtik/planiuer)
+A planning skill for AI coding agents
 
 ## Stats
 
