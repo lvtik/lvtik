@@ -18,19 +18,6 @@ A lightweight, fast, and easy-to-use activation tool for Windows 10/11 and Micro
 
 Lightweight Firefox extension for enabling/disabling Tor proxy connection 
 
-### [SimpleMacRestore](https://github.com/lvtik/SimpleMacRestore)
-
-SimpleMacRestore fixes a broken Apple Silicon Mac using a Linux computer. It downloads the required system file (IPSW) and communicates with your Mac in DFU mode to revive or fully restore it. 
-
-### [ipswtool](https://github.com/lvtik/ipswtool)
-A powerful, all-in-one command-line and interactive utility to download Apple Firmware (IPSW), OTA Updates, and iTunes versions directly from Apple's servers via the ipsw.me API. 
-
-### [sfyri](https://github.com/lvtik/sfyri)
-A small and lightweight bootable USB creator
-
-### [planiuer](https://github.com/lvtik/planiuer)
-A planning skill for AI coding agents
-
 ## Stats
 
 <img
